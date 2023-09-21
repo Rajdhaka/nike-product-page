@@ -20,19 +20,19 @@ export default function HeroSection() {
           <div className="ecommerce">
             <img
               className="flipkart"
-              src="../public/images/flipkart.png"
+              src="./images/flipkart.png"
               alt="flipkart"
             />
             <img
               className="amazon"
-              src="../public/images/amazon.png"
+              src="./images/amazon.png"
               alt="amazon"
             />
           </div>
         </div>
       </div>
       <div className="hero-img">
-        <img src="../public/images/shoe_image.png" alt="Nike shoes" />
+        <img src="./images/shoe_image.png" alt="Nike shoes" />
       </div>
     </div>
   );

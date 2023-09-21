@@ -1,7 +1,7 @@
 export default function Navigation() {
   return (
     <div className="navbar">
-      <img src="../public/images/brand_logo.png" alt="logo" className="logo" />
+      <img src="./images/brand_logo.png" alt="logo" className="logo" />
       <ul className="nav-list">
         <li href="#">menu</li>
         <li href="#">location</li>
